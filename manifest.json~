@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Tweet Chrome App",
+  "version": "1.0",
+  "app": {
+    "background": {
+      "scripts": ["scripts/main.js"]
+    }
+  }
+}
